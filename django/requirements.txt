@@ -1,0 +1,4 @@
+Django==3.2.9
+elasticsearch7==7.16.1
+mysqlclient
+markdown
